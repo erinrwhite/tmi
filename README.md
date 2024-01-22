@@ -3,5 +3,3 @@ Unfortunately, we have decided to close our doors. We are no longer offering in-
 **Dr. Tiffany Jana** is available to serve on boards of directors, as an executive coach and keynote speaker/emcee through [Doc Jana, LLC](https://www.tiffanyjana.com). Please direct media inquiries here.
 
 If you are looking to weave kindness into your organizational culture by way of assessments, research or LMS virtual courses, visit us at [Loom Technologies](https://www.loomtheculturemap.com).
-
- <p style="text-align: center;">![TMI Consulting, Inc., Logo](assets/TMI-logo.png)</p>

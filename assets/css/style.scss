@@ -3,17 +3,17 @@
 @import "{{ site.theme }}";
 
 .page-header {
-	background-image:linear-gradient(120deg, #FFC400, #FF503E);
+	background-image: linear-gradient(120deg, #5C7BDC, #FF503E);
 }
 
 .page-header .btn,
-.page-header h2
+.page-header h2,
 .site-footer-owner,
-.site-footer-credits,
+.site-footer-credits
  { display: none; }
 
 
 .site-footer {
-	background: url('assets/TMI-logo.png') no-repeat center top; 
+	background: url('../assets/TMI-logo.png') no-repeat center top; 
 	height: 100px;
 }
