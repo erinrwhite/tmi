@@ -2,6 +2,11 @@
 ---
 @import "{{ site.theme }}";
 
+.page-header {
+	background-image:linear-gradient(120deg, #FFC400, #FF503E);
+}
+
 .page-header .btn,
 .site-footer-owner,
 .site-footer-credits { display: none; }
+
