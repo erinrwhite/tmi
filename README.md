@@ -1,5 +1,3 @@
-# Looking for TMI Consulting, Inc.?
-
 Unfortunately, we have decided to close our doors. We are no longer offering in-person diversity training and consulting services. 
 
 **Dr. Tiffany Jana** is available to serve on boards of directors, as an executive coach and keynote speaker/emcee through [Doc Jana, LLC](https://www.tiffanyjana.com). Please direct media inquiries here.
