@@ -1,2 +1,2 @@
-# tmi
-TMI's farewell site
+# TMI Consulting, Inc.
+Saying goodbye.
